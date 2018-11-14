@@ -4,26 +4,28 @@
     <item
         android:id="@+id/info"
         android:icon="@drawable/ic_baseline_info_24px"
-        android:title="Info" />
+        android:title="Info"
+        />
 
     <item
         android:id="@+id/category"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="Category" />
-
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Category"
+        />
     <item
         android:id="@+id/search"
         android:icon="@drawable/ic_baseline_search_24px"
-        android:title="Search" />
-
+        android:title="Search"
+        />
     <item
         android:id="@+id/foodrecovery"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="Food Recovery" />
-
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Food Recovery"
+        />
     <item
         android:id="@+id/menu"
         android:icon="@drawable/ic_baseline_menu_24px"
-        android:title="Menu" />
+        android:title="Menu"
+        />
 
 </menu>
